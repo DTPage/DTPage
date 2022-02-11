@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @DTPage
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... Python and system automation
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<---
+DTPage/DTPage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
